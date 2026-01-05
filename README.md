@@ -74,6 +74,15 @@ The detailed business context, objectives, and deliverables for this project are
 
 ---
 
+## 📽️ Project Presentation
+
+A concise presentation summarizing the business problem, data analysis, key insights, and strategic recommendations:
+
+📊 **Customer Shopping Behavior Analysis (PPT)**  
+👉 [`presentation/Customer_Shopping_Behavior_Analysis.pptx`](presentation/Customer_Shopping_Behavior_Analysis.pptx)
+
+---
+
 ## 🛠️ Tools & Technologies Used
 
 * **Python**: Pandas, NumPy, Matplotlib, Seaborn
@@ -87,28 +96,31 @@ The detailed business context, objectives, and deliverables for this project are
 ## 📂 Repository Structure
 
 ```
-Customer Shopping Behavior Analysis/
+customer-shopping-behavior-analysis-sql-python-powerbi/
 │
 ├── data/
-│   └── customer_shopping_behavior.csv
+│ └── customer_shopping_behavior.csv
 │
 ├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
+│ └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql/
-│   └── customer_behavior_sql_queries.sql
+│ └── customer_behavior_sql_queries.sql
 │
 ├── dashboard/
-│   └── customer_behavior_dashboard.pbix
+│ └── customer_behavior_dashboard.pbix
 │
 ├── reports/
-│   └── customer_behavior_analysis_report.pdf
+│ └── customer_behavior_analysis_report.pdf
+│
+├── presentation/
+│ └── Customer_Shopping_Behavior_Analysis.pptx
 │
 ├── docs/
-│   └── Business_Problem_Document.pdf
+│ └── Business_Problem_Document.pdf
 │
 ├── images/
-│   └── dashboard.png
+│ └── dashboard.png
 │
 ├── Project_Workflow.png
 │
